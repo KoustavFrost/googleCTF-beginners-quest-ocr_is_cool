@@ -24,5 +24,5 @@ The problem also came with an attachment. It is a zip file which contents a imag
 - ROT needs some studying or experience.
 
 #### Future Plans:
-- [] Make the write-up a bit more understandable.
-- [] Planning to make an YouTube video on this CTF.
+- [ ] Make the write-up a bit more understandable.
+- [ ] Planning to make an YouTube video on this CTF.
